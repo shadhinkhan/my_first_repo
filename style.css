@@ -1,7 +1,39 @@
-.h{
-    color: brown;
-    background-color: chartreuse;
-    border: 5px solid whitesmoke;
+.brazil{
+    border: 5px solid royalblue;
     margin: 10px;
     padding: 10px;
+    background-image: url("brazil logo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+#br{
+    color: rgba(0, 0, 255, 0.884);
+}
+.argentina{
+    border: 5px solid gold;
+    margin: 10px;
+    padding: 10px;
+    background-image: url("argentina\ logo.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+
+}
+#ar{
+    color:rgb(146, 125, 7);
+}
+.portugal{
+    border: 5px solid red;
+    margin: 10px;
+    padding: 10px;
+    background-image: url("portugal\ logo.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+
+}
+#pr{
+    color:red;
 }
